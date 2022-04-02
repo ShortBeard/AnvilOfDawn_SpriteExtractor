@@ -12,4 +12,5 @@ Getting D3G files:
 
 You can now point the Sprite Extractor at the folder containing all the D3G files.
 
-Special thanks to Saul and Peek for their knowledge and assistance with reverse engineering the resource files!
+Special thanks to Saul and Pesk for their knowledge and assistance with reverse engineering the resource files!
+https://github.com/saulpw/aodparse
