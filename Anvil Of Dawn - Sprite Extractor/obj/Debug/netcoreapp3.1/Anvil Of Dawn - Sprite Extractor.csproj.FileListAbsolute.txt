@@ -1,0 +1,15 @@
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\bin\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.exe
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\bin\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.deps.json
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\bin\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.runtimeconfig.json
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\bin\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.runtimeconfig.dev.json
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\bin\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.dll
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\bin\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.pdb
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.csprojAssemblyReference.cache
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil_Of_Dawn___Sprite_Extractor.MainForm.resources
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.csproj.GenerateResource.cache
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.AssemblyInfoInputs.cache
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.AssemblyInfo.cs
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.csproj.CoreCompileInputs.cache
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.dll
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.pdb
+C:\Users\shane\Documents\Visual Studio 2019\Anvil Of Dawn - Sprite Extractor\Anvil Of Dawn - Sprite Extractor\obj\Debug\netcoreapp3.1\Anvil Of Dawn - Sprite Extractor.genruntimeconfig.cache
